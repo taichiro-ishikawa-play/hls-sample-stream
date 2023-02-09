@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:127920,LOCAL:00:00:00.000
+
+test1
+00:00.000 --> 00:02.000 line:1
+line 1 (0)
+
+test2
+00:00.000 --> 00:02.000 line:2
+line 2 (1)
+
