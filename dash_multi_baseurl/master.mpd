@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Generated with https://github.com/google/shaka-packager version v2.6.1-634af65-release-->
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.500000S" type="static" mediaPresentationDuration="PT12S" profiles="urn:mpeg:dash:profile:isoff-live:2011,http://dashif.org/guidelines/dash264">
-  <BaseURL>http://example.com/</BaseURL>
+  <BaseURL>./invalid</BaseURL>
   <Period id="0" start="PT0S" duration="PT6S">
     <AdaptationSet id="1" contentType="audio" segmentAlignment="true">
       <Representation id="1" bandwidth="131750" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
